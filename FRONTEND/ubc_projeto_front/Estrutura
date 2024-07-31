@@ -1,0 +1,21 @@
+ubc_projeto_front/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Login.js
+│   │   ├── StudentForm.js
+│   │   ├── StudentList.js
+│   ├── redux/
+│   │   ├── actions/
+│   │   │   ├── authActions.js
+│   │   │   ├── studentActions.js
+│   │   ├── reducers/
+│   │   │   ├── authReducer.js
+│   │   │   ├── studentReducer.js
+│   │   │   ├── rootReducer.js
+│   │   ├── store.js
+│   ├── App.js
+│   ├── index.js
+│   ├── index.css
+├── package.json
